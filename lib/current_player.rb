@@ -9,8 +9,8 @@ end
   
 end
 
-def current_player 
-if current_player % 2
+def current_player(board) 
+
 
 
   
